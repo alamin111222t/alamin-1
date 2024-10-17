@@ -98,7 +98,6 @@
     border: none;
     margin-right: 80px;
     opacity:90%;
-    box-shadow: none;
 }
 .img-alamin:hover{
     opacity: 65%;
@@ -113,7 +112,6 @@
     margin-left: 5%;
     border: none;
     width: 700px;
-    box-shadow: none;
 
 }
 .write p{
